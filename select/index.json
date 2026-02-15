@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "いくつものいつもの",
+  "base_artist": "MOROHA",
+  "createdAt": "2026-02-15T07:49:01.061373Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いくつものいつもの",
+      "artist": "MOROHA",
+      "has_synced": false,
+      "path": "select/pl_01_いくつものいつもの_MOROHA.txt"
+    }
+  ]
+}
